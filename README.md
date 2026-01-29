@@ -1,6 +1,5 @@
-# Modern Todo Web App (Java 21 & HTMX)
+#  Todo Web App (Java 21 & HTMX)
 
-A high-performance, "No-JS" interactive Todo application built as part of a technical internship challenge. This project demonstrates a transition from legacy Spring architectures to a modern, encapsulated, and persistent stack.
 
 ## 🚀 Demo
 ![Application Demo](demo.gif)
